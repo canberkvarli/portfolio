@@ -15,23 +15,37 @@
         "startDate": "2021",
         "description": "ForestLibrary is an interactive social network for users to encourage themselves in reading books and interact with other book readers. Within the application, every user is a tree and every branch is a book category (e.g. horror, romance, history) and every leaf is a book that they accomplished reading. ForestLibrary welcomes the non-existing and existing users with a forest at the home page. As it is possible to guess easily, the forest is the collection of users as trees. Users also have the option to create their forests which are basically the book clubs!",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/forestlibrary/FLMainPage.png",
+          "images/portfolio/forestlibrary/modal.png",
+          "images/portfolio/forestlibrary/myTreeImage.png"
         ],
         "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-react-plain",
+            "name": "React"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-mongodb-plain",
+            "name": "Mongodb"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-nodejs-plain",
+            "name": "Nodejs"
+          },
+          {
+            "class": "devicon-express-original",
+            "name": "Express"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "Css"
           }
+          
         ]
       },
       {
