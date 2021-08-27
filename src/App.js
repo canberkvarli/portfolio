@@ -91,7 +91,7 @@ class App extends Component {
                 window.$secondaryLanguageIconId
               )
             }
-            style={{ display: "inline" }}
+            style={{ display: "none", }}
           >
             <span
               className="iconify language-icon mr-5"
@@ -107,7 +107,7 @@ class App extends Component {
                 window.$primaryLanguageIconId
               )
             }
-            style={{ display: "inline" }}
+            style={{ display: "none" }}
           >
             <span
               className="iconify language-icon"
@@ -116,7 +116,12 @@ class App extends Component {
               id={window.$secondaryLanguageIconId}
             ></span>
           </div>
+
+          <div>
+            hello
+          </div>
         </div>
+        
         <About
           resumeBasicInfo={this.state.resumeData.basic_info}
           sharedBasicInfo={this.state.sharedData.basic_info}
