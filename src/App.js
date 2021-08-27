@@ -8,6 +8,10 @@ import Experience from "./components/Experience";
 import Projects from "./components/Projects";
 import Skills from "./components/Skills";
 
+import {FaTwitter, FaAngellist, FaGithub, FaLinkedin} from 'react-icons/fa'
+
+
+
 class App extends Component {
 
   constructor(props) {
@@ -118,7 +122,23 @@ class App extends Component {
           </div>
 
           <div>
-            hello
+            <a href="https://www.linkedin.com/in/canberkvarli/" target="_blank" rel="noreferrer noopener"
+            className="social-links">
+              <FaLinkedin />
+            </a>
+            <a href="https://github.com/canberkvarli" target="_blank" rel="noreferrer noopener"
+            className="social-links">
+              <FaGithub />
+            </a>
+            <a href="https://twitter.com/VARLICanberk" target="_blank" rel="noreferrer noopener"
+            className="social-links">
+              <FaTwitter />
+            </a>
+            <a href="https://angel.co/u/canberkvarli" target="_blank" rel="noreferrer noopener"
+            className="social-links">
+              <FaAngellist />
+            </a>
+            
           </div>
         </div>
         

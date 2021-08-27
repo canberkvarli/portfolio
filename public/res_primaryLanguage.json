@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "My name is Canberk Varli and I'm a software developer with experience building web applications using JavaScript, React/Redux, Ruby on Rails, SQL, Node.js, Mongoose, Express.js, MongoDB. Successfully finished the curriculum at App Academy, a highly selective and immersive Software Engineering bootcamp that I spent over 100 hours per week enhancing my skills and exposing myself to a myriad of cutting-edge technologies. In my free time, I enjoy being with nature, playing basketball and catching as many waves as I can. Along with that, I like to read philosophy and contemplate the concepts in life.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,9 +11,9 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Forest Library",
+        "startDate": "2021",
+        "description": "ForestLibrary is an interactive social network for users to encourage themselves in reading books and interact with other book readers. Within the application, every user is a tree and every branch is a book category (e.g. horror, romance, history) and every leaf is a book that they accomplished reading. ForestLibrary welcomes the non-existing and existing users with a forest at the home page. As it is possible to guess easily, the forest is the collection of users as trees. Users also have the option to create their forests which are basically the book clubs!",
         "images": [
           "images/portfolio/animal-shelter/p1.jpg",
           "images/portfolio/animal-shelter/p2.jpg"
