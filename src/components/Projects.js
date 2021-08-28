@@ -38,9 +38,13 @@ class Projects extends Component {
                   <br />
                   <p className="project-title-settings mt-3">
                     {projects.title}
+                    <br />
                   </p>
+                    <a href={projects.live}>live </a>
+                    | <a href={projects.link}>github</a>
                 </div>
               </div>
+               
             </span>
           </div>
         );

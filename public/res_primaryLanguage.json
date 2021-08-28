@@ -19,7 +19,10 @@
           "images/portfolio/forestlibrary/modal.png",
           "images/portfolio/forestlibrary/myTreeImage.png"
         ],
-        "url": "",
+        "url": "https://forest-library.herokuapp.com/#/",
+
+        "live": "https://forest-library.herokuapp.com/#/",
+        "link": "https://github.com/lamjay415/ForestLibrary",
         "technologies": [
           {
             "class": "devicon-react-plain",
@@ -45,18 +48,20 @@
             "class": "devicon-css3-plain",
             "name": "Css"
           }
-          
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Sonar",
+        "startDate": "2021",
+        "description": "Sonar is a web page, clone of SoundCloud built with Ruby on Rails, ReactJS, and Redux. On Sonar, artists are able to upload their tracks for the world to stream, share, and like.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/sonar/homepage.png",
+          "images/portfolio/sonar/trackIndex.png",
+          "images/portfolio/sonar/track .png"
         ],
-        "url": "https://github.com",
+        "url": "http://appsonar.herokuapp.com/#/",
+        "live": "http://appsonar.herokuapp.com/#/",
+        "link": "https://github.com/canberkvarli/sonar",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -65,30 +70,45 @@
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
+          },
+          {
+            "class": "devicon-ruby-plain",
+            "name": "Ruby"
+          },
+          {
+            "class": "devicon-amazonwebservices-plain-wordmark",
+            "name": "AWS"
+          },
+          {
+            "class": "devicon-heroku-original",
+            "name": "Heroku"
           }
+
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Spark",
+        "startDate": "2021",
+        "description": "Spark is an interactive demo project which is intented to improve the frontend skills of the oneself as well as creating a musical spark within every soul in the world. Anyone who is curious, interested, or even just to play around with it can find something bigger in themselves that I hope Spark will illuminate their emotions and ideas into music.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/spark/homepage.png",
+          "images/portfolio/spark/spark2.png"
         ],
-        "url": "https://github.com",
+        "url": "https://canberkvarli.github.io/spark/",
+        "live": "https://canberkvarli.github.io/spark/",
+        "link": "https://github.com/canberkvarli/spark",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-css3-plain",
+            "name": "Css3"
           }
         ]
       }
