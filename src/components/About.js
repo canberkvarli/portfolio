@@ -98,7 +98,7 @@ class About extends Component {
                           <span className="btn-inner--text">
                             See My Resume 
                           </span>
-                          
+                          {/* lol */}
                 </a>
                 <br></br>
                 <span className="btn-inner--text" id="or"> or </span>
