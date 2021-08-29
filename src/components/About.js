@@ -85,6 +85,26 @@ class About extends Component {
                 </div>
               </div>
             </div>
+                <a
+                          className="btn-white btn-icon mb-3 mb-sm-0 ml-1"
+                          color="default"
+                          href="https://docs.google.com/document/d/1YOHhQ6fHCQFXIsRAIoM9E1ZW_5WIInecZvWZ1EcKyWQ/edit?usp=sharing"
+                          target="_blank"
+                        >
+                          <span className="btn-inner--icon mr-1">
+                            <i className="fa fa-file" />
+                          </span>
+                          <span className="btn-inner--text">
+                            See My Resume 
+                          </span>
+                          
+                </a>
+                <br></br>
+                <span className="btn-inner--text" id="or"> or </span>
+                <a href="mailto:canberkvarli@gmail.com"
+                className="btn-inner--text"
+                className="btn-white btn-icon mb-3 mb-sm-0 ml-1"
+                >canberkvarli@gmail.com</a>
           </div>
         </div>
       </section>

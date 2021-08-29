@@ -431,3 +431,51 @@ footer a:focus {
 	margin-top: 50px;
 	font-size: 22px;
 }
+
+.btn-white {
+	text-decoration: none;
+	width: 200px;
+	height: 30px;
+	padding-top: 5px;
+	padding-left: 10px;
+	font-size: 15px;
+	color: #212529;
+	background-color: #fff;
+	border-color: #fff;
+	box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08);
+}
+.btn-white:hover {
+	color: #212529;
+	background-color: #ececec;
+	border-color: #e6e6e6;
+	text-decoration: none;
+	cursor: pointer;
+}
+.btn-white:focus,
+.btn-white.focus {
+	box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08),
+		0 0 0 0 rgba(222, 222, 223, 0.5);
+}
+.btn-white.disabled,
+.btn-white:disabled {
+	color: #212529;
+	background-color: #fff;
+	border-color: #fff;
+}
+.btn-white:not(:disabled):not(.disabled):active,
+.btn-white:not(:disabled):not(.disabled).active,
+.show > .btn-white.dropdown-toggle {
+	color: #212529;
+	background-color: #e6e6e6;
+	border-color: #dfdfdf;
+}
+.btn-white:not(:disabled):not(.disabled):active:focus,
+.btn-white:not(:disabled):not(.disabled).active:focus,
+.show > .btn-white.dropdown-toggle:focus {
+	box-shadow: 0 0 0 0 rgba(222, 222, 223, 0.5);
+}
+
+#or{
+	margin: 10px;
+	font-size: 15px;
+}
