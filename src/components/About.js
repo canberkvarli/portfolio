@@ -88,7 +88,8 @@ class About extends Component {
                 <a
                           className="btn-white btn-icon mb-3 mb-sm-0 ml-1"
                           color="default"
-                          href="https://docs.google.com/document/d/1YOHhQ6fHCQFXIsRAIoM9E1ZW_5WIInecZvWZ1EcKyWQ/edit?usp=sharing"
+                          href="/resumeFolder/resume.pdf"
+                          download
                           target="_blank"
                         >
                           <span className="btn-inner--icon mr-1">
